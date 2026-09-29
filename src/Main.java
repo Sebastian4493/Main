@@ -1,10 +1,10 @@
-public class Adder {
+class Adder {
     public int add(int a, int b) {
         return a + b;
     }
 }
 
-public class Subtractor {
+class Subtractor {
     public int subtract(int a, int b) {
         return a - b;
     }
