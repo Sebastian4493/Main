@@ -2,12 +2,6 @@
 
 //OK, I will add 'Adder' and s33161 will add 'Subtractor'
 
-class Adder {
-    public int add(int a, int b) {
-        return a + b;
-    }
-}
-
 class Subtractor {
     public int subtract(int a, int b) {
         return a - b;
